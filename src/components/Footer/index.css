@@ -1,0 +1,26 @@
+.footer {
+  background-color: #2e3131;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+.learn-button {
+  background: linear-gradient(180deg, #58d69d 0%, #13bfab 100%);
+  border-radius: 3px;
+  color: white;
+  padding: 8px;
+  border-radius: 5px;
+  margin: 10px;
+}
+.footer-img {
+  margin-top: 10px;
+  width: 100%;
+}
+h3 {
+  margin: 0px;
+  color: black;
+}
+li {
+  margin-bottom: 3px;
+}

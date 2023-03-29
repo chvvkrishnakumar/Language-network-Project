@@ -1,0 +1,84 @@
+.top-main {
+  display: flex;
+}
+.bg-main {
+  padding: 40px;
+}
+h1 {
+  font-size: 40px;
+  font-family: 'Roboto';
+}
+p {
+  font-family: 'Roboto';
+  font-weight: 400;
+}
+.para {
+  width: 45%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 400px;
+  padding-left: 30px;
+  margin-right: 40px;
+}
+.imgbg {
+  width: 50%;
+}
+.image {
+  height: 300px;
+  margin-left: 30px;
+  border-radius: 10px;
+}
+.middile {
+  display: flex;
+  justify-content: space-around;
+}
+.eachCard {
+  display: flex;
+  width: 399px;
+  height: 104px;
+  left: 86px;
+  top: 811px;
+
+  background: #f4f4f4;
+  border-radius: 3px;
+  margin-bottom: 10px;
+}
+.icon {
+  height: 50px;
+  margin: 20px;
+}
+.small-heading {
+  font-size: 25px;
+  margin-bottom: 0px;
+}
+.how {
+  text-align: center;
+  margin-top: 80px;
+  font-weight: 500;
+}
+.App {
+  font-family: 'Nunito', sans-serif;
+  margin-left: 200px;
+}
+.circle {
+  background: rgba(88, 214, 157, 0.19);
+  color: aquamarine;
+  width: 30px;
+  height: 30px;
+  border-radius: 30px;
+  text-align: center;
+  padding-top: 6px;
+  font-weight: 400;
+  margin-right: 10px;
+}
+.questions {
+  display: flex;
+  margin-left: 200px;
+}
+.answer {
+  padding-top: 5px;
+}
+.king {
+  margin-left: 200px;
+}

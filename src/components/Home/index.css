@@ -1,0 +1,186 @@
+/* Write your CSS code here */
+.discover {
+  color: #13bfab;
+  text-align: center;
+}
+.discover-img-container {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+.disco-img {
+  height: 130px;
+  margin: 10px;
+}
+.learn-at-any-stage {
+  text-align: center;
+  padding: 10px;
+}
+p {
+  text-align: left;
+}
+.side-h1 {
+  text-align: left;
+  color: #13bfab;
+}
+.level-card {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 180px;
+  color: #13bfab;
+  padding: 10px;
+  border-style: solid;
+  border-width: 1px;
+  box-shadow: 2px 2px rgb(103, 103, 103);
+  margin: 2px;
+  background-color: #ffffff;
+}
+p {
+  margin-top: 1px;
+}
+h2 {
+  margin-top: 2px;
+  margin-bottom: 0px;
+  color: #13bfab;
+}
+
+.cost {
+  color: black;
+}
+
+.cards-container {
+  flex-wrap: wrap;
+  display: flex;
+  height: fit-content;
+}
+.intro {
+  color: black;
+  margin-bottom: 0px;
+  font-weight: bold;
+}
+.french {
+  display: flex;
+  align-self: center;
+  height: fit-content;
+
+  padding-top: 0px;
+  margin-bottom: 5px;
+}
+.french-card {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  color: #ffffff;
+  background-color: #2e3131;
+  padding: 20px;
+}
+.large-img {
+  height: 40vh;
+  align-self: center;
+  margin: 10px;
+}
+.french-worth {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+}
+.sub-card1 {
+  text-align: center;
+  color: black;
+  background-color: #f4f4f4;
+  width: 100%;
+}
+.sub-card2 {
+  text-align: center;
+  color: black;
+  background-color: #ded7d7;
+  width: 100%;
+}
+.sub-card3 {
+  text-align: center;
+  color: black;
+  background-color: #b9b2b2;
+  width: 100%;
+}
+.sub-card4 {
+  text-align: center;
+  color: black;
+  background-color: #b29ba3;
+  width: 100%;
+}
+.sub-card5 {
+  text-align: center;
+  color: black;
+  background-color: #a68787;
+  width: 100%;
+}
+.sub-card1 {
+  text-align: center;
+  color: black;
+  background-color: #f4f4f4;
+  width: 100%;
+}
+
+.cards-container2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #2e3131;
+  padding: 20px;
+}
+.h3-head {
+  color: white;
+  text-align: center;
+  font-size: 25px;
+  margin-bottom: 10px;
+}
+.icon {
+  font-size: 45px;
+  margin-right: 10px;
+  color: lightseagreen;
+  background-color: #d6c1c1;
+  padding: 5px;
+  border-radius: 50%;
+}
+.img {
+  margin-right: 10px;
+}
+.cards-container3 {
+  flex-wrap: wrap;
+  display: flex;
+  height: fit-content;
+  background-color: #dce9e7;
+  width: 250px;
+  margin-bottom: 5px;
+  border-radius: 5px;
+}
+.video {
+  height: 40vh;
+  margin-right: 30px;
+  width: 400px;
+}
+.cards-container4 {
+  flex-wrap: wrap;
+  display: flex;
+  height: fit-content;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.img-container {
+  display: flex;
+  background-color: #53d59f;
+  padding: 30px;
+  padding-left: 0px;
+  border-radius: 20px;
+  max-width: 300px;
+  padding-right: 100px;
+}
+.main {
+  text-align: center;
+}
+.p {
+  text-align: center;
+}
